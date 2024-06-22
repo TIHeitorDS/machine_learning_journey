@@ -1,2 +1,2 @@
-# machine_learning_journey
-repositório contendo meus aprendizados em aprendizado de máquina
+# machine learning journey
+repositório contendo minhas práticas em aprendizado de máquina
